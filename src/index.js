@@ -7,4 +7,8 @@ document.getElementById("app").innerHTML = `
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
+
+Hello world.
+
+Hello world.
 `;
